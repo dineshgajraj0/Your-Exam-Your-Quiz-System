@@ -1,0 +1,60 @@
+Which language is used to create this quiz program?
+HTML
+CSS
+C
+Python
+3
+Which symbol is used to end a statement in C?
+:
+;
+.
+,
+2
+Which function is the starting point of a C program?
+start()
+main()
+begin()
+run()
+2
+Which header file is used for printf() and scanf()?
+stdlib.h
+string.h
+stdio.h
+math.h
+3
+Which data type is used to store integers in C?
+float
+char
+int
+double
+3
+Which function is used to open a file in C?
+open()
+fileopen()
+fopen()
+readfile()
+3
+Which mode is used to open a file for reading?
+w
+a
+r
+x
+3
+Which operator is used for comparison "equal to" in C?
+=
+==
+!=
+>=
+2
+Which keyword is used to define a structure in C?
+struct
+class
+define
+record
+1
+Which function is used to close a file in C?
+close()
+fclose()
+endfile()
+stop()
+2
